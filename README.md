@@ -41,4 +41,11 @@ Tutaj to klient jest odpowiedzialny za infrastukturę, wdrożenie, zarządzanie 
 
 3. Chmura hybrydowa<br>
 
-Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa jest elastyczna, co pozwala na zbudowanie modelu pod potrzeby klienta (np. klient potrzebuje część danych pozostawić tylko i wyłącznie do własnej dyspozycji, nie publikując ich "na zewnątrz").
+Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa jest elastyczna, co pozwala na zbudowanie modelu pod potrzeby klienta (np. klient potrzebuje część danych pozostawić tylko i wyłącznie do własnej dyspozycji, nie publikując ich "na zewnątrz").<br>
+
+[Tutaj link](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/01%20Rodzaje%20chmur.jpg) z podsumowaniem chmur.<br>
+
+<br>
+<br>
+
+
