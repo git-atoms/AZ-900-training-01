@@ -65,3 +65,7 @@ Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa 
 >SLA - Service Level Agreement (umowa określająca poziom dostępności usług)<br>
 
 <br>
+
+* Fault tolerance (odporność na uszkodzenia) - dzięki temu dostawca może wciąż zapewnić ciągłość usług, nawet jeśli jakiś z elementów jego infrastruktury przez chwilę nie funkcjonuje.<br>
+>Resiliency - odporność<br>
+>Redundancy - nadmiarowość
