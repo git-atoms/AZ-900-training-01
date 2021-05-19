@@ -41,3 +41,4 @@ Tutaj to klient jest odpowiedzialny za infrastukturę, wdrożenie, zarządzanie 
 
 3. Chmura hybrydowa<br>
 
+Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa jest elastyczna, co pozwala na zbudowanie modelu pod potrzeby klienta (np. klient potrzebuje część danych pozostawić tylko i wyłącznie do własnej dyspozycji, nie publikując ich "na zewnątrz").
