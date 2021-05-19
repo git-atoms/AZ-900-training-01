@@ -65,7 +65,25 @@ Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa 
 >SLA - Service Level Agreement (umowa określająca poziom dostępności usług)<br>
 
 <br>
+<br>
 
 * Fault tolerance (odporność na uszkodzenia) - dzięki temu dostawca może wciąż zapewnić ciągłość usług, nawet jeśli jakiś z elementów jego infrastruktury przez chwilę nie funkcjonuje.<br>
 >Resiliency - odporność<br>
->Redundancy - nadmiarowość
+>Redundancy - nadmiarowość<br>
+
+<br>
+<br>
+
+* Scalability (skalowalność) - możliwość zwiększania lub zmniejszania zasobów.<br>
+* Elasticity (elastyczność) - automatyczne skalowanie<br>.
+
+>Dzięki skalowalności i elastyczności mamy możliwość dodawania lub odejmowania zasobów, wtedy kiedy są nam potrzebne.<br>
+
+<br>
+
+**Skalowanie w pionie** (skalowanie w górę) - dodawanie zasobów w celu zwiększenia możliwości istniejącego serwera<br>
+>np. dodanie procesorów lub dodanie ilości pamięci
+
+<br>
+
+**Skalowanie w poziomie**
