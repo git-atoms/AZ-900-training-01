@@ -1,6 +1,8 @@
 # AZ-900-training-01
-### I prepare myself to pass AZ-900 certificate.
+### (I prepare myself to pass AZ-900 certificate.)
 
+<br>
+<br>
 <br>
 
 ## Cloud computing <br>
@@ -15,6 +17,9 @@ za pośrednictwem internetu.<br>
 <br>
 <br>
 
+---
+<br>
+<br>
 
 ## Trzy modele wdrożenia chmury
 
@@ -48,4 +53,15 @@ Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa 
 <br>
 <br>
 
+---
+<br>
+<br>
 
+## Zalety chmury
+
+<br>
+
+* High availability (wysoka dostępność) - ciągła dostępność usług, z jak najmniejszymi przerwami w ich świadczeniu.<br>
+>SLA - Service Level Agreement (umowa określająca poziom dostępności usług)<br>
+
+<br>
