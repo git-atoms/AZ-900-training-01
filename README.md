@@ -25,9 +25,19 @@ za pośrednictwem internetu.<br>
 
 Najbardziej popularny model wdrażania. Za infrastrukturę odpowiedzialny jest dostawca usługi (np. Azure). Dostęp via internet.<br>
 
->Do zarządzania nie jest potrzebna wiedza detaliczna bo zarządzanie odbywa się po stronie dostawcy.<br>
+>Do zarządzania nie jest potrzebna wiedza detaliczna bo zarządzanie odbywa się po stronie dostawcy usług.<br>
 
 <br>
 
 
-2. 
+2. Chmura lokalna (prywatna)<br>
+
+Tutaj to klient jest odpowiedzialny za infrastukturę, wdrożenie, zarządzanie czy aktualizację. Z punktu widzenia bezpieczeństwa, tylko klient i tylko jego organizacja, mają dostęp do zasobów.<br>
+
+>Klient ma pełną kontrolę ale ten model wymaga wiedzy specjalistycznej.<br>
+
+<br>
+
+
+3. Chmura hybrydowa<br>
+
