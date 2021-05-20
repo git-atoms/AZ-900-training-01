@@ -86,4 +86,31 @@ Połączenie elementów chmury publicznej z chmurą prywatną. Chmura hybrydowa 
 
 <br>
 
-**Skalowanie w poziomie**
+**Skalowanie w poziomie** (skalowanie na zewnątrz) - dodanie większej liczby serwerów<br>
+
+<br>
+<br>
+
+Przykład elastyczności chmury:
+Kiedy uruchamiamy jakąś kampanię marketingową czy poszukiwanie nowych pracowników (mailing, baza danych, itp) chmura przydziela automatycznie zasoby aby to obsłużyć.<br>
+A kiedy kampania się skończy, chmura automatycznie cofnie przydział dodatkowych zasobów.<br>
+
+<br>
+<br>
+
+* Globa reach (zasięg globalny) - mapa Azure, mapa dostepności usługi. Oznacza to, że można swoje zasoby umieścić w regionie bliżej klienta. Obniża to również koszty.<br>
+
+<br>
+<br>
+
+* Customer latency capabilities (opóźnienie w dostawie usług) - korzystanie z zasobów chmury powinno być dostępne przy jak najmniejszym opóźnieniu (natychmiast, bez oczekiwania czy opóźnienia).<br>
+
+<br>
+<br>
+
+* Agility (zręczność) - zdolność do szybkiego działania, tworzenia nawet setek maszyn wirtualnych, gotowych do działania w minutę, w tym samym czasie.<br>
+
+<br>
+<br>
+
+* Predictive cost considerations (przewidywanie kosztów) - 
