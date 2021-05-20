@@ -113,4 +113,20 @@ A kiedy kampania się skończy, chmura automatycznie cofnie przydział dodatkowy
 <br>
 <br>
 
-* Predictive cost considerations (przewidywanie kosztów) - 
+* Predictive cost considerations (przewidywanie kosztów) - kiedy działamy na urządzeniach fizycznych, możemy próbować szacować koszta ale nie da się ich dokładnie przewidzieć<br>
+
+
+>Na masynach wirtualnych, w chmurze możliwe jest przewidzenie wszystkich kosztów, sprawdzenie ile będzie kosztowało włączenie tej czy innej usługi.
+
+<br>
+<br>
+
+---
+<br>
+<br>
+
+## CapEx vs OpEx
+
+<br>
+
+CapEx (wydatki kapitałowe)
