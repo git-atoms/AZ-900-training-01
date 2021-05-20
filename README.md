@@ -129,4 +129,8 @@ A kiedy kampania się skończy, chmura automatycznie cofnie przydział dodatkowy
 
 <br>
 
-CapEx (wydatki kapitałowe)
+**CapEx** (wydatki kapitałowe) - mówimy o tym jak budowane i finansowane były centra danych przed chmurą (onPremises).<br>
+
+<br>
+
+**OpEx** (wydatki operacyjne) - ponosimy tylko koszta operacyjne, które są uzależnione tylko od naszych bieżących potrzeb.<br>
