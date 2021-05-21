@@ -156,3 +156,23 @@ Za korzystanie z usłuch chmurowych, rozliczamy się miesięcznie lub kwartalnie
 
 <br>
 
+* **IaaS** (Infrastucture as a Service) - najbardziej podstawowy model, bardzo zbliżony do środowiska on-Premise. Elastyczny (najczęściej wybierany na początku).<br>
+
+Dostawca jest odpowiedzialny za infrastrukturę ale za wszystko inne user: usługa musi być odpowiednio skonfigurowana, zaktualizowana i udostępniona klientom.<br>
+>Lift-And-Shift (migrowanie środowiska lokalnego do chmury)<br>
+
+<br>
+<br>
+
+* **PaaS** (Platform as a Service) - dostawca usług ma tu większą odpowiedzialność (nie tylko infrastuktura ale również system operacyjny).<br>
+>Po stronie użytkownika pozostaje tylko tworzenie aplikacji na gotowej infrastrukturze i systemie operacyjnym.
+
+<br>
+<br>
+
+* **SaaS** (Software as a Service) - korzystanie z aplikacji w chmurze za pomocą internetu. Użytkownika nic nie interesuje i jedyne co musi robić to mieć dostęp do internetu i płacić za subskrybcję.<br>
+
+<br>
+<br>
+
+[Tutaj podsumowanie]() porównania tych usług.
