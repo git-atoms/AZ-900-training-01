@@ -129,8 +129,30 @@ A kiedy kampania się skończy, chmura automatycznie cofnie przydział dodatkowy
 
 <br>
 
-**CapEx** (wydatki kapitałowe) - mówimy o tym jak budowane i finansowane były centra danych przed chmurą (onPremises).<br>
+**CapEx** (wydatki kapitałowe) - mówimy o tym jak budowane i finansowane były centra danych przed chmurą (onPremises lub jako chmura prywatna).<br>
+>Planujemy i kupujemy z pewną nadwyżką.
 
 <br>
 
-**OpEx** (wydatki operacyjne) - ponosimy tylko koszta operacyjne, które są uzależnione tylko od naszych bieżących potrzeb.<br>
+**OpEx** (wydatki operacyjne) - ponosimy tylko koszta operacyjne, które są uzależnione tylko od naszych aktualnych potrzeb.<br>
+
+<br>
+
+Za korzystanie z usłuch chmurowych, rozliczamy się miesięcznie lub kwartalnie (w zależności od typu umowy).<br>
+
+<br>
+
+**Consumption-based model** płacimy za to, z czego faktycznie korzystaliśmy.<br>
+>Model oparty na faktycznym zużyciu zasobów.<br>
+
+<br>
+<br>
+
+---
+<br>
+<br>
+
+## Rodzaje usług w chmurze
+
+<br>
+
