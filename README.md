@@ -122,6 +122,7 @@ A kiedy kampania się skończy, chmura automatycznie cofnie przydział dodatkowy
 <br>
 
 ---
+
 <br>
 <br>
 
@@ -188,4 +189,24 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 <br>
 <br>
 
-* Serverless computing (przetwarzanie bezserwerowe) - 
+* Serverless computing (przetwarzanie bezserwerowe) - umożliwia uruchamianie kodu aplikacji bez tworzenia, konfigurowania i utrzymywania serwera.
+
+>Azure Functions - umożliwia uruchamianie fragmentów kodu, bez martwienia się o infrastrukturę.
+
+<br>
+
+>Azure Logic Apps - usługa pozwala zaplanować oraz zautomatyzować zadania. Korzystamy tu z galerii gotowych triggerów (wyzwalaczy akcji) oraz samych akcji.
+
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Infrastruktura Azure
+
+<br>
+
