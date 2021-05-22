@@ -176,3 +176,13 @@ Dostawca jest odpowiedzialny za infrastrukturę ale za wszystko inne user: usłu
 <br>
 
 [Tutaj podsumowanie](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/02%20Por%C3%B3wnanie%20us%C5%82ug%20w%20chmurze.jpg) porównania tych usług.
+
+<br>
+<br>
+
+Chmura cechuje się modelem dzielonej współodpowiedzialności.
+>Użytkownik zawsze jest odpowiedzialny za dostęp oraz za dane.
+
+<br>
+
+[Tutaj przykład]() modelu dzielonej współodpowiedzialności.
