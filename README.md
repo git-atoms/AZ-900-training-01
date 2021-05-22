@@ -173,11 +173,9 @@ Dostawca jest odpowiedzialny za infrastrukturę ale za wszystko inne user: usłu
 * **SaaS** (Software as a Service) - korzystanie z aplikacji w chmurze za pomocą internetu. Użytkownika nic nie interesuje i jedyne co musi robić to mieć dostęp do internetu i płacić za subskrybcję.<br>
 
 <br>
-<br>
 
 [Tutaj podsumowanie](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/02%20Por%C3%B3wnanie%20us%C5%82ug%20w%20chmurze.jpg) porównania tych usług.
 
-<br>
 <br>
 
 Chmura cechuje się modelem dzielonej współodpowiedzialności.
@@ -185,4 +183,9 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 
 <br>
 
-[Tutaj przykład]() modelu dzielonej współodpowiedzialności.
+[Tutaj przykład](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/03%20Dzielenie%20wsp%C3%B3%C5%82odpowiedzialno%C5%9Bci.jpg) modelu dzielonej współodpowiedzialności.
+
+<br>
+<br>
+
+* Serverless computing (przetwarzanie bezserwerowe) - 
