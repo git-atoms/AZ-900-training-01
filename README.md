@@ -210,3 +210,4 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 
 <br>
 
+Region jest obszar na Ziemi, który zawiera co najmniej jedno centrum danych (datacenter) ale jeśli wiele, to znajdują się blisko siebie i są ze sobą połączone siecią o małych opóźnieniach.
