@@ -210,4 +210,12 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 
 <br>
 
-Region jest obszar na Ziemi, który zawiera co najmniej jedno centrum danych (datacenter) ale jeśli wiele, to znajdują się blisko siebie i są ze sobą połączone siecią o małych opóźnieniach.
+**Region** - jest obszar na Ziemi, który zawiera co najmniej jedno centrum danych (datacenter) ale jeśli wiele, to znajdują się blisko siebie i są ze sobą połączone siecią o małych opóźnieniach.
+
+<br>
+
+**Pary regionów** - (region pairs) każdy region Azure jest połączony z innym regionem w obrębie tego samego obszaru geograficznego (USA, Europe, Asia) w odległości co najmniej 300mil czyli ok 500km.
+
+<br>
+
+**SLA** - Service Level Agreement(dostępność usługi)
