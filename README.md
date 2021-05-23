@@ -197,7 +197,6 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 
 >Azure Logic Apps - usługa pozwala zaplanować oraz zautomatyzować zadania. Korzystamy tu z galerii gotowych triggerów (wyzwalaczy akcji) oraz samych akcji.
 
-
 <br>
 <br>
 
@@ -226,3 +225,8 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 **Strefy dostępności** (Availability Zones) - fizycznie oddzielone centra danych w regionie świadczenia usługi Azure.<br>
 Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposażonego w niezależne zasilanie, chłodzenie i sieć.
 >Availability Zone przejmuje na siebie usługi, kiedy jedno z DataCenter przestaje działać z danego regionu.
+
+<br>
+<br>
+
+**Resource Group** (grupa zasobów) - to podstawowy element platformy Azure.
