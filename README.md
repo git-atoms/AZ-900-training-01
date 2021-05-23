@@ -215,6 +215,7 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 <br>
 
 **Pary regionów** (Region Pairs) - każdy region Azure jest połączony z innym regionem w obrębie tego samego obszaru geograficznego (USA, Europe, Asia) w odległości co najmniej 300mil czyli ok 500km.
+> Region Pair przejmuje na siebie usługi, kiedy cały region przestaje funkcjonować.
 
 <br>
 
@@ -223,4 +224,5 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 <br>
 
 **Strefy dostępności** (Availability Zones) - fizycznie oddzielone centra danych w regionie świadczenia usługi Azure.<br>
-Każda Availability Zone
+Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposażonego w niezależne zasilanie, chłodzenie i sieć.
+>Availability Zone przejmuje na siebie usługi, kiedy jedno z DataCenter przestaje działać z danego regionu.
