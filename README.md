@@ -229,4 +229,14 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 <br>
 
-**Resource Group** (grupa zasobów) - to podstawowy element platformy Azure.
+---
+
+<br>
+<br>
+
+## Zasoby Azure (Azure Resources)
+
+<br>
+
+**Resource Group** (grupa zasobów) - to podstawowy element platformy Azure. Zasobnik wszystkich elementów, wdrożony na platformie Azure.
+>Zasób może należeć tylko do jednej grupy ale zasoby mogą być przenoszone pomiędzy tymi grupami.
