@@ -240,3 +240,16 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 **Resource Group** (grupa zasobów) - to podstawowy element platformy Azure. Zasobnik wszystkich elementów, wdrożony na platformie Azure.
 >Zasób może należeć tylko do jednej grupy ale zasoby mogą być przenoszone pomiędzy tymi grupami.
+
+<br>
+
+**Azure Resource Manager** (ARM) - usługa wdrażania i zarządzania dla platformy Azure.
+>Przez ARM przechodzi wszystko co robimy na Azure.
+
+<br>
+
+**Azure Subsriptions** - też jest zarządzane przez ARM i pozwala dobrać subskrybcję, a co za tym idzie kosztorys i dostępy dla poszczególnych części organizacji.
+
+<br>
+
+**Management Group** - sposób wykorzystania ARM (Azure Resource Manager) aby kontrolował wszystkie subskrybcje, grupy zasobów i same zasoby.
