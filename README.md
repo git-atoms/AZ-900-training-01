@@ -214,8 +214,13 @@ Chmura cechuje się modelem dzielonej współodpowiedzialności.
 
 <br>
 
-**Pary regionów** - (region pairs) każdy region Azure jest połączony z innym regionem w obrębie tego samego obszaru geograficznego (USA, Europe, Asia) w odległości co najmniej 300mil czyli ok 500km.
+**Pary regionów** (Region Pairs) - każdy region Azure jest połączony z innym regionem w obrębie tego samego obszaru geograficznego (USA, Europe, Asia) w odległości co najmniej 300mil czyli ok 500km.
 
 <br>
 
 **SLA** - Service Level Agreement(dostępność usługi)
+
+<br>
+
+**Strefy dostępności** (Availability Zones) - fizycznie oddzielone centra danych w regionie świadczenia usługi Azure.<br>
+Każda Availability Zone
