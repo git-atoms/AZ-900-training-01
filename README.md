@@ -270,3 +270,7 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 
 [Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/05%20Azure%20Compute.jpg) Azure Compute.
+
+<br>
+
+**Virtual Machines** (VM) 
