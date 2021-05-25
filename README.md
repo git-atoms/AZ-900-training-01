@@ -253,3 +253,17 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 
 **Management Group** - sposób wykorzystania ARM (Azure Resource Manager) aby kontrolował wszystkie subskrybcje, grupy zasobów i same zasoby.
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Core Azure Workloads
+
+<br>
+
+**
