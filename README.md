@@ -266,4 +266,4 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
-**
+**Azure Compute** - to usługa obliczeniowa on-demand (na żądanie) dla aplikacji w chmurze. Zapewnia zasoby obliczeniowe w ramach maszyn wirtualnych i kontenerów.
