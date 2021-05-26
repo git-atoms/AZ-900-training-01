@@ -292,4 +292,11 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
-**Azure Container Services** (Kontery Azure) - kolejny typ usługi obliczeniowej
+**Azure Container Services** (Kontery Azure) - kolejny typ usługi obliczeniowej. Kontener nie korzysta z wirtualizacji, dlatego nie zużywa zasobów.
+<br>
+
+* ACI (Azure Container Instances) oferuje najszybszy i najprostszy sposób uruchomienia kontenera na platformie Azure. Jest to oferta PaaS.
+
+<br>
+
+* AKS (Azure Kubernetes Services) oferuje pełną aranżację kontenerów, architektury z dużą liczbą rozproszonych kontenerów.
