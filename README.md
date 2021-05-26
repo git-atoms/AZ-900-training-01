@@ -281,9 +281,9 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
-**Azure App Services**
+**Azure App Services** - to kolejna usługa obliczeniowa, która umożliwia tworzenie i hostowanie aplikacji internetowych.
 <br>
 
-[Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/05%20Azure%20Compute.jpg) Azure App Services.
+[Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/06%20Azure%20App%20Services.jpg) Azure App Services.
 
 <br>
