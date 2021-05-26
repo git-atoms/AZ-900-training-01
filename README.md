@@ -274,3 +274,6 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 
 **Virtual Machines** (VM) 
+>_Do wpisania w PowerShell maszyny wirtualnej_:<br>
+>
+>Install-WindowsFeature -name Web-Server -IncludeManagementTools
