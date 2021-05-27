@@ -362,4 +362,4 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
-[Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/06%20Azure%20App%20Services.jpg) Azure storage services (opcje magazynu platformy Azure).
+[Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/09%20Azure%20storage%20services.jpg) Azure storage services (opcje magazynu platformy Azure).
