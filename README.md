@@ -295,8 +295,60 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 **Azure Container Services** (Kontery Azure) - kolejny typ usługi obliczeniowej. Kontener nie korzysta z wirtualizacji, dlatego nie zużywa zasobów.
 <br>
 
-* ACI (Azure Container Instances) oferuje najszybszy i najprostszy sposób uruchomienia kontenera na platformie Azure. Jest to oferta PaaS.
+* **ACI** (Azure Container Instances) oferuje najszybszy i najprostszy sposób uruchomienia kontenera na platformie Azure. Jest to oferta PaaS.
 
 <br>
 
-* AKS (Azure Kubernetes Services) oferuje pełną aranżację kontenerów, architektury z dużą liczbą rozproszonych kontenerów.
+* **AKS** (Azure Kubernetes Services) oferuje pełną aranżację kontenerów, architektury z dużą liczbą rozproszonych kontenerów.
+
+<br>
+
+<br>
+
+**Windows Virtual Desktop** wirtualizacja pulpitu i aplikacji, działająca w chmurze.
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Azure networking services (usługi sieciowe)
+
+<br>
+
+>Usługi sieciowe Azure mogą być używane razem lub osobno.
+
+
+**Azure Virtual Network** (VNet)
+<br>
+<br>
+
+**Virtual Private Network Gateway** (VPN)
+
+
+1. Lokacja-Lokacja
+2. Punkt-Lokacja
+3. Sieć wirtualna-Sieć wirtualna
+<br>
+<br>
+
+**Azure Express Route** 
+<br>
+<br>
+
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Tworzenie BLOB
+>Storage accounts
+
+<br>
