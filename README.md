@@ -352,7 +352,14 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 <br>
 
-## Tworzenie BLOB
+## Tworzenie BLOB (magazyn danych)
 >Używamy storage accounts (blob) i do niego dodajemy kontener.
 
+ <br>
+
+>BLOB służy również do przechowywania danych NIESTRUKTURALNYCH.
+
+
 <br>
+
+[Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/06%20Azure%20App%20Services.jpg) Azure storage services (opcje magazynu platformy Azure).
