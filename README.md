@@ -273,8 +273,12 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
-**Virtual Machines** (VM) 
->_Do wpisania w PowerShell maszyny wirtualnej_:<br>
+**Virtual Machines** (VM)
+>Używamy Virtual machines i tworzymy nową grupę zasobów (resource group.)
+
+<br>
+
+>_Do wpisania w PowerShell (nie lokalnego kompa ale maszyny wirtualnej_):<br>
 >
 >Install-WindowsFeature -name Web-Server -IncludeManagementTools
 <br>
@@ -349,6 +353,6 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 
 ## Tworzenie BLOB
->Storage accounts
+>Używamy storage accounts (blob) i do niego dodajemy kontener.
 
 <br>
