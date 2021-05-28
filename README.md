@@ -385,3 +385,16 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 
 [Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/10%20Azure%20storage%20access%20tiers.jpg) o tierach.
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Azure database services (bazy danych)
+
+<br>
+
