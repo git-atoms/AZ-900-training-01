@@ -355,6 +355,9 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 
 ## Tworzenie BLOB (magazyn danych)
+
+<br>
+
 >Używamy storage accounts (blob) i do niego dodajemy kontener.
 
  <br>
@@ -367,3 +370,16 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 [Tutaj screen](https://github.com/git-atoms/AZ-900-training-01/blob/main/Screeny/09%20Azure%20storage%20services.jpg) Azure storage services (opcje magazynu platformy Azure).
 <br>
 
+>SMB (Server Message Block)
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Warstwy magazynowania/dostępu (Azure storage access tiers)
+
+<br>
