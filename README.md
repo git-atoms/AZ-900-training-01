@@ -98,7 +98,7 @@ A kiedy kampania się skończy, chmura automatycznie cofnie przydział dodatkowy
 <br>
 <br>
 
-* Globa reach (zasięg globalny) - mapa Azure, mapa dostepności usługi. Oznacza to, że można swoje zasoby umieścić w regionie bliżej klienta. Obniża to również koszty.<br>
+* Global reach (zasięg globalny) - mapa Azure, mapa dostepności usługi. Oznacza to, że można swoje zasoby umieścić w regionie bliżej klienta. Obniża to również koszty.<br>
 
 <br>
 <br>
@@ -398,3 +398,31 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
+* CosmosDB
+<br>
+
+* Azure SQL Database
+<br>
+
+* Azure Database for mySQL
+<br>
+
+* Azure Database for PostgreSQL
+<br>
+
+* Azure SQL Managed Instance (przeniesienie on-Premise do chmury)
+<br>
+
+* Explore Azure Marketplace
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Azure database services (bazy danych)
+
+<br>
