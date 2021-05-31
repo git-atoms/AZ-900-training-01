@@ -423,6 +423,6 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 <br>
 <br>
 
-## Azure database services (bazy danych)
+## Core Solutions
 
 <br>
