@@ -455,3 +455,51 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 * Databrics
 <br>
+
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## AI & ML
+
+<br>
+
+* Azure Machine Learning
+<br>
+
+* Cognitive Services
+<br>
+
+* Bot Service
+<br>
+
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## DevOps and GitHub
+
+<br>
+
+* DevOps
+<br>
+
+* GitHub
+<br>
+
+* GitHub Actions for Azure
+<br>
+
+* DevTest Labs
+<br>
+
