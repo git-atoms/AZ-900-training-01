@@ -427,10 +427,31 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 
 <br>
 
-* IoT Central
+* IoT Central - urządzenia działające jednokierunkowo (np. powiadomienia z czujników zgłaszających awarię urządzenia)
 <br>
 
 * IoT Hub
 <br>
 
 * Sphere
+
+<br>
+<br>
+
+---
+
+<br>
+<br>
+
+## Big data and analytics
+
+<br>
+
+* Synapse Analytics
+<br>
+
+* HDInsight
+<br>
+
+* Databrics
+<br>
