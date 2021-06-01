@@ -426,3 +426,11 @@ Każda Availability Zone składa się co najmniej z jednego DataCenter, wyposaż
 ## Core Solutions
 
 <br>
+
+* IoT Central
+<br>
+
+* IoT Hub
+<br>
+
+* Sphere
