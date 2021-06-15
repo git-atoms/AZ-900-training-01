@@ -1,5 +1,5 @@
 # AZ-900-training-01
-### (I prepare myself to pass AZ-900 certificate.)
+### ([I passed Azure](https://www.credly.com/badges/52888dc4-559a-49b9-9ef6-3ff561d0393e/public_url) Fundamentals exam)
 
 <br>
 <br>
